@@ -1,9 +1,17 @@
 team: Tigers
 
+<<<<<<< HEAD
 
 manager: Brenda
+=======
+<<<<<<< HEAD
 
-coach : Grace
+=======
+manager: Deborah
+>>>>>>> conflict-1
+>>>>>>> to-merge
+
+coach : Ruth
 
 members:
 - Linda
